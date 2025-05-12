@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/CRUD-Operation/', // Match your repository name
+  base: '/CRUD-Operation/', // match your GitHub repo name
 });
